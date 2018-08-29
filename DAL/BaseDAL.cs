@@ -14,7 +14,7 @@ namespace DAL
                      IsAutoCloseConnection = true, //默认false
                      InitKeyType=InitKeyType.SystemTable });
        
-
+                                           
 
 
 
